@@ -1,9 +1,9 @@
 <div align="center"><img src="https://img.shields.io/badge/Author-NISCHALARYAL-informational?style=for-the-badge&logo=github&" alt="XIONGBAB"></div>
 <br />
 
-<div align="center">
+
 ![Snake animation](https://github.com/Nischal5123/Nischal5123/blob/output/github-contribution-grid-snake.svg)
-</div>
+
 
 
  
