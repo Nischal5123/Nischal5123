@@ -6,11 +6,15 @@
 </div>
 
 <div align="center"><img  width="100px" src="https://raw.githubusercontent.com/L1cardo/iBeats/main/files/heart.svg"/></div>
-<!-- <div align="center"><img src="https://cdn.jsdelivr.net/gh/nischal5123/nischal5123/profile-snake-contrib/github-contribution-grid-snake.svg" /></div>
- -->
+
+ 
 <hr />
 <!-- page -->
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=xiongbab&show_icons=true&icon_color=orange&text_color=718096&bg_color=ffffff&hide_title=true&count_private=true&theme=cobalt" />
+ <a href="https://github.com/Nischal5123">
+  <img align="right" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nischal5123&layout=compact&langs_count=16&theme=dracula"/>
+  
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=nischal5123&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/>
+
 
 # 😄 Hello World!
 -Note: This is just my 'personal' GitHub
@@ -22,6 +26,9 @@
     
 <br /><br />
 <!-- Tag -->
+<div>
+ 
+</div>
 <img src="https://img.shields.io/static/v1?label=Information&message=:&color=blue&logo=CBS">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<em><img src="https://img.shields.io/github/languages/top/xiongbab/XIONGBAB.github.io?color=blueviolet&logo=JavaScript"></em>&nbsp;&nbsp;<em><img style="display:inline-block" src="https://img.shields.io/github/followers/xiongbab?color=success&label=Followers&logo=Snapcraft&logoColor=white&style=flat-square"></em>&nbsp;&nbsp;<em><img src="https://img.shields.io/github/languages/count/xiongbab/xiongbab.github.io?color=success&label=Language&logo=Wolfram%20Language&logoColor=white"></em>&nbsp;&nbsp;<em><img src="https://img.shields.io/github/downloads/XIONGBAB/ASUS_FX505_EFI/total?style=flat-square"></em>&nbsp;&nbsp;<img src="https://visitor-badge.glitch.me/badge?page_id=xiongbab&left_color=green&right_color=blue">
 
 
@@ -32,7 +39,7 @@
 <hr />
 
 
-
+![Snake animation](https://github.com/Nischal5123/Nischal5123/blob/output/github-contribution-grid-snake.svg)
 
 <!-- is hrer -->
 
