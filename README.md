@@ -2,10 +2,9 @@
 <br />
 
 <div align="center">
-<!--    -->
+![Snake animation](https://github.com/Nischal5123/Nischal5123/blob/output/github-contribution-grid-snake.svg)
 </div>
 
-<div align="center"><img  width="100px" src="https://raw.githubusercontent.com/L1cardo/iBeats/main/files/heart.svg"/></div>
 
  
 <hr />
@@ -39,7 +38,7 @@
 <hr />
 
 
-![Snake animation](https://github.com/Nischal5123/Nischal5123/blob/output/github-contribution-grid-snake.svg)
+
 
 <!-- is hrer -->
 
@@ -92,6 +91,7 @@
 
 
 
+<div align="center"><img  width="100px" src="https://raw.githubusercontent.com/L1cardo/iBeats/main/files/heart.svg"/></div>
 
 
 <!--
