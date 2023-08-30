@@ -2,7 +2,7 @@
 <br />
 
 
-![Snake animation](https://github.com/Nischal5123/Nischal5123/blob/output/github-contribution-grid-snake.svg)
+<!-- ![Snake animation](https://github.com/Nischal5123/Nischal5123/blob/output/github-contribution-grid-snake.svg)-->
 
 
 
@@ -10,9 +10,9 @@
 <hr />
 <!-- page -->
  <a href="https://github.com/Nischal5123">
-  <img align="right" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nischal5123&layout=compact&langs_count=16&theme=dracula"/>
+  <!-- <img align="right" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nischal5123&layout=compact&langs_count=16&theme=dracula"/> -->
   
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=nischal5123&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/>
+   <!-- <img align="right" src="https://github-readme-stats.vercel.app/api?username=nischal5123&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/> -->
 
 
 # 😄 Hello World!
